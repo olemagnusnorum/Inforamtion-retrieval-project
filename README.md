@@ -69,3 +69,5 @@ The path of this directory is:
 ````
 ir_system/src/ir_website/management/commands
 ````
+## Secret_key
+In settings.py it is important that you make a secret key for the applicartion, this has been removed when oploaded to github and needs to be added again
