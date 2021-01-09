@@ -83,4 +83,3 @@ To run the server localy, you navigate to the same directory that manage.py is i
 ```
 python manage.py runserver
 ```
-## Adding new files to the database
