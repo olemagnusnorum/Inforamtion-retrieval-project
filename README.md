@@ -71,3 +71,16 @@ ir_system/src/ir_website/management/commands
 ````
 ## SECRET_KEY
 In settings.py it is important that you make a secret key for the applicartion, this has been removed when oploaded to github and needs to be added again
+
+## Creating an admin
+To create an admin, you you navigate to the same directory that manage.py is in and run the command:
+`````
+python manage.py createsuperuser
+`````
+
+## Running server
+To run the server localy, you navigate to the same directory that manage.py is in and run the command:
+```
+python manage.py runserver
+```
+## Adding new files to the database
